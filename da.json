@@ -1,0 +1,53 @@
+{
+    "name" : "Dansk",
+    "name-en" : "Danish",
+    "live" : true,
+    "translations" : {
+        "meta" : {
+            "thForDate" : true,
+            "dateFormat" : "[month] [date] [year]",
+            "months" : [
+                "Januar",
+                "Februar",
+                "Marts",
+                "April",
+                "Maj",
+                "Juni",
+                "Juli",
+                "August",
+                "September",
+                "Oktober",
+                "November",
+                "December"
+            ],
+            "types" : {
+                "backpack" : "Back Bling",
+                "emote" : "Emote",
+                "glider" : "Glider",
+                "emoji" : "Emoji",
+                "loading" : "Indlæsningsskærm",
+                "outfit" : "Outfit",
+                "pickaxe" : "Pickaxe",
+                "skydive" : "Skydiving Trail",
+                "umbrella" : "Umbrella",
+                "spray" : "Spray",
+                "toy" : "Toy",
+                "pet" : "Pet",
+                "music" : "Music",
+                "wrap" : "Wrap",
+                "bundle" : "Bundle",
+                "misc" : "Misc"
+            },
+            "rarity" : {
+                "legendary" : "Legendary",
+                "epic" : "Epic",
+                "rare" : "Rare",
+                "uncommon" : "Uncommon",
+                "common" : "Common"
+            },
+            "translationNotAvailable" : "Unfortunately there is no translation available for this page.",
+            "translationIncomplete" : "Not all text on this page will be translated"
+        },
+        "nav" : {
+            "home" : "home",
+            "shop" : "shop",
